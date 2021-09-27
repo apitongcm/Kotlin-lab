@@ -60,3 +60,8 @@
     </li>
 </ul>
     
+<ul>
+    <li>
+       	ohmsLaw program will help you calculate the voltage, current or resistance of the circuit.It is a console application running in loop.To exit just type -1 in the console. 
+    </li>
+</ul>
